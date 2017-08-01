@@ -6,12 +6,12 @@ toy_story = media.Movie('Toy Story',
                         'https://www.youtube.com/watch?v=KYz2wyBy3kc')
 # Movie 2 Data
 avatar = media.Movie('Avatar',
-                      'https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg',
+                      'https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg',  # noqa
                      'https://www.youtube.com/watch?v=aVdO-cx-McA')
 
 # Movie 3 Data
 despicable_me = media.Movie('Despicable Me 3',
-                            'https://upload.wikimedia.org/wikipedia/en/9/91/Despicable_Me_3_%282017%29_Teaser_Poster.jpg',
+                            'https://upload.wikimedia.org/wikipedia/en/9/91/Despicable_Me_3_%282017%29_Teaser_Poster.jpg',  # noqa
                             'https://www.youtube.com/watch?v=euz-KBBfAAo')
 
 # Movie 4 Data
